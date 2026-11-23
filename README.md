@@ -378,3 +378,30 @@ Project Repository: \[MandiMitra](https://github.com/AmanKumar9931/MandiMitra)
 
 </p>
 
+
+---
+
+# 📸 MandiMitra Dashboard Showcase
+
+## 1. India Overview
+![India Overview](screenshots/01-dashboard-overview.png)
+
+## 2. Agricultural Market Explorer
+![Market Explorer](screenshots/02-market-explorer.png)
+
+## 3. Interactive India District Map
+![India Map](screenshots/03-interactive-india-map.png)
+
+## 4. Commodity Intelligence
+![Commodity Intelligence](screenshots/04-commodity-intelligence.png)
+
+## 5. AI Agricultural Price Predictor
+![AI Price Predictor](screenshots/05-ai-price-predictor.png)
+
+## 6. Mandi Price Comparison
+![Mandi Comparison](screenshots/06-mandi-price-comparison.png)
+
+## 7. Agricultural Price Volatility
+![Price Volatility](screenshots/07-price-volatility.png)
+
+
