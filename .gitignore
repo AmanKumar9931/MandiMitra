@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# CatBoost temporary files
+catboost_info/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.DS_Store
